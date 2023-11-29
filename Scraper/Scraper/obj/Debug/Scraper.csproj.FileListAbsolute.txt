@@ -1,0 +1,11 @@
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\bin\Debug\Scraper.exe
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\bin\Debug\Scraper.pdb
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\obj\Debug\Scraper.csprojAssemblyReference.cache
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\obj\Debug\Scraper.csproj.CoreCompileInputs.cache
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\obj\Debug\Scraper.csproj.CopyComplete
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\obj\Debug\Scraper.exe
+C:\Users\kolb.ji.2021\source\repos\Scraper\Scraper\obj\Debug\Scraper.pdb
